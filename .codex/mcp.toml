@@ -1,0 +1,4 @@
+[mcp_servers.vercel]
+command = npx
+args = [ mcp-remote, httpsmcp.vercel.com ]
+```
